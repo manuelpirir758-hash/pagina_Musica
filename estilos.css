@@ -53,6 +53,12 @@ h1{
     grid-row: span 2;
 }
 
+@media(max-width:768px){
+    .galeria-album{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 @media(max-width:600px){
     .galeria-album{
         grid-template-columns: repeat(2, 1fr);
