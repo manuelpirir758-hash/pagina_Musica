@@ -15,8 +15,8 @@ h1{
 }
 
 .contenedor{
-    width: 110%;
-    max-width: 1900px;
+    width: 100%;
+    max-width: 1500px;
     background-color: white;
     padding: 25px;
     border-radius: 15px;
